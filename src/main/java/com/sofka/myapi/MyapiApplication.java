@@ -29,7 +29,7 @@ public class MyapiApplication {
 	}
 
 	/**
-	 * <b>Descripcion:<b> Clase que determina 
+	 * <b>Descripcion:<b> Clase que determina la configuracion de seguridad de la aplicacion
 	 * @author Dizzi Tren
 	 */
 	@EnableWebSecurity
